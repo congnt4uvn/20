@@ -253,7 +253,7 @@ function showPropertyDetail(propertyId) {
             </div>
            
             <div class="mb-3">
-              <a href="https://facebook.com/bdsabc" target="_blank" class="btn btn-primary w-100" id="modalContactFacebook">
+              <a href="https://www.facebook.com/cong.nguyen.746942" target="_blank" class="btn btn-primary w-100" id="modalContactFacebook">
                 <i class="bi bi-facebook"></i> Liên hệ qua Facebook
               </a>
             </div>
